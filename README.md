@@ -14,7 +14,7 @@ https://youtu.be/H-akTUcBuzw
 |----------------|----------------|------------------|
 | Shivam Janda   | 117963256      | shivamjanda      |
 | Ali Fallahtafti| 134958230      | alifallahtafti78 |
-| Aayan Bhandari | _[student #]_  | Clb269           |
+| Aayan Bhandari | 109414268       | Clb269           |
 
 
 ## 📝 Topic Summary
